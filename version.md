@@ -2,3 +2,4 @@
 - Update Checker
 - Datenbank-Änderung
 - Löschen von Spalten
+- Grösseres Fenster
