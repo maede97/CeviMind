@@ -1,7 +1,2 @@
-1.1.6
-- Text-Preview
-- Unterkategorien
-- Bugfixes
-
-Installiere CeviMind neu im normalen Programm-Ordner!
-Beim Start wird nach Admin-Berechtigung gefragt.
+1.1.7
+ Installiere CeviMind irgendwo, deine Daten werden zentral gespeichert!
