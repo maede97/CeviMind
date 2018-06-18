@@ -1,7 +1,7 @@
-1.1.8
-- Unterkategorien werden nun schön angezeigt
-- Control+N öffnet neues Fenster
-1.1.9 (bald):
+1.1.9
+- Bug-Fixes
+- AutoCompletion bei Eingabe
+1.1.10 (bald):
 - Menu mit:
   - Info
   - Neu
